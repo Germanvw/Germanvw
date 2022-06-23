@@ -1,6 +1,6 @@
 # Hi there 👋 I'm German Vazquez.
 
-## <a href="germanv-portfolio.vercel.app">Portfolio</a>.
+## <a href="https://germanv-portfolio.vercel.app/">Portfolio</a>
 
 <div align="center" >
   <div style="display: flex;">
